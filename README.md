@@ -1,5 +1,6 @@
 # line_detection
-![ex_screenshot](./img/screenshot.png)
+![ex_screenshot](result.jpg)
+
 python library
 -----
 ```
